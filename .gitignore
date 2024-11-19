@@ -1,0 +1,14 @@
+# Dependency directories
+/node_modules/
+
+# Angular build output
+/dist/
+/tmp/
+/out-tsc/
+
+# IDEs and OS generated files
+.vscode/
+.idea/
+.DS_Store
+*.log
+
