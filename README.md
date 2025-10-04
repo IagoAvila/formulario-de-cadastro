@@ -1,27 +1,107 @@
-# FormularioDecadastro
+````markdown
+# 📋 Formulário de Cadastro
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.12.
+Projeto desenvolvido em **Angular** com o objetivo de criar um formulário de cadastro moderno, organizado e validado, aplicando boas práticas de estrutura e responsividade.
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 🚀 Tecnologias utilizadas
 
-## Code scaffolding
+- **Angular 18**
+- **TypeScript**
+- **HTML5**
+- **CSS3**
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## 🎯 Funcionalidades
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Formulário reativo com validações de campos obrigatórios  
+- Estrutura modular seguindo o padrão Angular CLI  
+- Atualização automática no navegador durante o desenvolvimento  
+- Build otimizada para produção  
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## ⚙️ Como executar o projeto
 
-## Running end-to-end tests
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/IagoAvila/formulario-de-cadastro.git
+````
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+2. **Acesse a pasta do projeto:**
 
-## Further help
+   ```bash
+   cd formulario-de-cadastro
+   ```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+3. **Instale as dependências:**
+
+   ```bash
+   npm install
+   ```
+
+4. **Inicie o servidor de desenvolvimento:**
+
+   ```bash
+   ng serve
+   ```
+
+5. **Acesse no navegador:**
+
+   ```
+   http://localhost:4200/
+   ```
+
+---
+
+## 🧱 Estrutura do projeto
+
+```
+/
+├── src/
+│   ├── app/
+│   │   ├── components/
+│   │   ├── services/
+│   │   ├── app.component.ts
+│   │   └── app.module.ts
+│   ├── assets/
+│   ├── environments/
+│   └── index.html
+├── angular.json
+├── package.json
+├── styles.css
+└── README.md
+```
+
+---
+
+## 🧪 Scripts úteis
+
+| Comando                      | Descrição                                            |
+| ---------------------------- | ---------------------------------------------------- |
+| `ng serve`                   | Executa o projeto em modo desenvolvimento            |
+| `ng build`                   | Compila o projeto para produção (gera pasta `dist/`) |
+| `ng test`                    | Executa testes unitários com Karma                   |
+| `ng generate component nome` | Cria um novo componente Angular                      |
+
+---
+
+## 👨‍💻 Desenvolvido por
+
+**Iago Ávila Batista**
+[LinkedIn](https://linkedin.com/in/iago-ávila-batista) • [GitHub](https://github.com/IagoAvila)
+
+---
+
+## 🪪 Licença
+
+Projeto criado para fins de estudo e prática com Angular.
+
+```
+
+---
+
+Quer que eu adicione uma seção de **preview com imagem ou GIF do formulário funcionando** para deixar o README mais apresentável?
+```
