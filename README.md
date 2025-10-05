@@ -98,10 +98,3 @@ Projeto desenvolvido em **Angular** com o objetivo de criar um formulário de ca
 ## 🪪 Licença
 
 Projeto criado para fins de estudo e prática com Angular.
-
-```
-
----
-
-Quer que eu adicione uma seção de **preview com imagem ou GIF do formulário funcionando** para deixar o README mais apresentável?
-```
